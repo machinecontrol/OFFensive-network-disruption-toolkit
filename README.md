@@ -52,7 +52,7 @@ With this toolkit, you'll unleash your inner hacker! Gather IP info, encrypt dat
 
 **OFFensive-Network Disruption Toolkit** is for educational purposes only. It demonstrates network disruption techniques that may have ethical and legal implications. I, Olanrewaju Fawaz Fakorede (OFF), disclaim all liability for misuse or unauthorized use. Users must adhere to applicable laws and regulations.
 
-![Disclaimer]([https://example.com/disclaimer.png](https://png.pngitem.com/pimgs/s/34-341147_disclaimer-symbol-free-download-png-disclaimer-png-transparent.png))
+
 
 ## License 📜
 
@@ -65,4 +65,3 @@ Contributions and feedback are always welcome! Feel free to create issues or pul
 
 **Author:** Olanrewaju Fawaz Fakorede (OFF) 
 **GitHub:** [@machinecontrol](https://github.com/machinecontrol)
-```
