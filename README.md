@@ -1,6 +1,6 @@
 # OFFensive-Network Disruption Toolkit 🔥
 
-Welcome to the **OFFensive-Network Disruption Toolkit** - your gateway to advanced network and router disruption techniques, exclusively for educational and informational purposes.
+Welcome to the **OFFensive Network Disruption Toolkit** - your gateway to  network and router disruption techniques, exclusively for educationalpurposes.
 
 ## Key Features 💡
 
@@ -11,13 +11,13 @@ Welcome to the **OFFensive-Network Disruption Toolkit** - your gateway to advanc
 
 ## Get Started 🚀
 
-Before unleashing your skills, make sure you have the following dependencies installed:
+Make sure you have the following dependencies installed:
 
 - `curl`
 - `hping3`
 - `openssl`
 
-Ready to dive in? Follow these steps:
+ Follow these steps:
 
 1. Clone the repository to your local machine:
 
